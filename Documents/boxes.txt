@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="text-align:center">Registration</h1>
+<form actoin="/action-page.php">
+<fieldset>
+<label for="UserName">UserName:</label>
+<input type="UserName id="UserName" name="UserName" placeholder="UserName"><br><br>
+<label for="pwd">Password:</label>
+<input type="Password" id="pwd"><br><br>
+<label for="Phone"> Mobile:</label>
+<input type="tel" id="phone" name="Phone" placeholder="1234-56-6666"><br><br>
+<input type="submit" value="submit">
+<input type="rest" value="rest">
+</fieldset>
+<form>
